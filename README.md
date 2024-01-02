@@ -5,7 +5,7 @@
 
 <p align="center">
   <em>
-    This is me <b>Mathan-V</b>, a final year <b>Information Technology</b> undergraduate from <a href="https://www.iit.ac.lk/"> <b>Bharathiyar University</b>, Coimbatore</a>.
+    This is me <b>Mathan-V&nbsp;</b>Information Technology</b> undergraduate from <a href="https://www.iit.ac.lk/"> <b>Bharathiyar University</b>, Coimbatore</a>.
     An aspiring <b>Full-Stack Software Developer,</b>&nbsp; <b>Competitive Programmer</b>
   <br>
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
