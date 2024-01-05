@@ -52,7 +52,7 @@
 ## 🤝 Connect with Me
 <p align="left">
 <a href="mailto:marimathan1998@gmail.com"><img src="https://img.shields.io/badge/-marimathan1998@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/cmd_line_junkie?igshid=NzZlODBkYWE4Ng=="><img src="https://img.shields.io/badge/-@mathan_apv-E4405?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/mathan_apv?igshid=NzZlODBkYWE4Ng=="><img src="https://img.shields.io/badge/-@mathan_apv-E4405?style=flat&logo=Instagram&logoColor=white"/></a>
 
 
 
