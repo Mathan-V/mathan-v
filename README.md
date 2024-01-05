@@ -53,8 +53,8 @@
 <p align="left">
 <a href="mailto:marimathan1998@gmail.com"><img src="https://img.shields.io/badge/-marimathan1998@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/mathan_apv?igshid=NzZlODBkYWE4Ng=="><img src="https://img.shields.io/badge/-@mathan__apv-E4405?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/mathan-v/">
-  <img src="https://img.shields.io/badge/-Mathan%20V-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mathan-v/" />
+<a href="https://www.linkedin.com/in/mathan-v-a16a482a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <img src="https://img.shields.io/badge/-Mathan%20V-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mathan-v-a16a482a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" />
 </a>
 
 
