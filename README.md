@@ -46,7 +46,7 @@
 </p>
 <h1> </h1>
 
-![contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=mathan-v&bg_color=000000&color=ffffff&line=00aeff&point=00ff10&area=true&hide_border=true)
+![contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=Mathan-V&bg_color=000000&color=ffffff&line=00aeff&point=00ff10&area=true&hide_border=true)
 
 <!-- Connect with Me -->
 ## 🤝 Connect with Me
