@@ -39,9 +39,9 @@
 ## 📊 GitHub Status
 
 <p align="center">
-<a href="https://github.com/mathan-v">
-  <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=mathan-v&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
- <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com?user=mathan-v&theme=chartreuse-dark"/>
+<a href="https://github.com/Mathan-V">
+  <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mathan-V&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+ <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com?user=Mathan-V&theme=chartreuse-dark"/>
 </a>
 </p>
 <h1> </h1>
