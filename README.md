@@ -1,6 +1,6 @@
 <h1 align="center">Hi,I'm Mathan-V</h1>
 <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Information+Technology+Undergraduate;Full+Stack+Software+Developer;Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Mathan-V/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Information+Technology+Undergraduate;Full+Stack+Software+Developer;Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>
 
 <p align="center">
